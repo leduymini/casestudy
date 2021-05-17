@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.011bb810.chunk.css",
+    "main.js": "/static/js/main.623a2e7c.chunk.js",
+    "main.js.map": "/static/js/main.623a2e7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6cbd7a7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6cbd7a7e.js.map",
+    "static/css/2.92c2f793.chunk.css": "/static/css/2.92c2f793.chunk.css",
+    "static/js/2.191967ae.chunk.js": "/static/js/2.191967ae.chunk.js",
+    "static/js/2.191967ae.chunk.js.map": "/static/js/2.191967ae.chunk.js.map",
+    "static/js/3.2985a3c9.chunk.js": "/static/js/3.2985a3c9.chunk.js",
+    "static/js/3.2985a3c9.chunk.js.map": "/static/js/3.2985a3c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.92c2f793.chunk.css.map": "/static/css/2.92c2f793.chunk.css.map",
+    "static/css/main.011bb810.chunk.css.map": "/static/css/main.011bb810.chunk.css.map",
+    "static/js/2.191967ae.chunk.js.LICENSE.txt": "/static/js/2.191967ae.chunk.js.LICENSE.txt",
+    "static/media/emailIcon.03432b94.png": "/static/media/emailIcon.03432b94.png",
+    "static/media/nameIcon.9612e8a2.png": "/static/media/nameIcon.9612e8a2.png",
+    "static/media/positionIcon.058545e6.png": "/static/media/positionIcon.058545e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cbd7a7e.js",
+    "static/css/2.92c2f793.chunk.css",
+    "static/js/2.191967ae.chunk.js",
+    "static/css/main.011bb810.chunk.css",
+    "static/js/main.623a2e7c.chunk.js"
+  ]
+}
