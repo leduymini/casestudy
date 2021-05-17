@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/casestudy/static/css/main.2688153d.chunk.css",
-    "main.js": "/casestudy/static/js/main.25ce5c17.chunk.js",
-    "main.js.map": "/casestudy/static/js/main.25ce5c17.chunk.js.map",
-    "runtime-main.js": "/casestudy/static/js/runtime-main.735a14e0.js",
-    "runtime-main.js.map": "/casestudy/static/js/runtime-main.735a14e0.js.map",
-    "static/css/2.54787924.chunk.css": "/casestudy/static/css/2.54787924.chunk.css",
-    "static/js/2.b30a4ee4.chunk.js": "/casestudy/static/js/2.b30a4ee4.chunk.js",
-    "static/js/2.b30a4ee4.chunk.js.map": "/casestudy/static/js/2.b30a4ee4.chunk.js.map",
-    "static/js/3.63bb52b9.chunk.js": "/casestudy/static/js/3.63bb52b9.chunk.js",
-    "static/js/3.63bb52b9.chunk.js.map": "/casestudy/static/js/3.63bb52b9.chunk.js.map",
+    "main.css": "/casestudy/static/css/main.011bb810.chunk.css",
+    "main.js": "/casestudy/static/js/main.623a2e7c.chunk.js",
+    "main.js.map": "/casestudy/static/js/main.623a2e7c.chunk.js.map",
+    "runtime-main.js": "/casestudy/static/js/runtime-main.23f7b62a.js",
+    "runtime-main.js.map": "/casestudy/static/js/runtime-main.23f7b62a.js.map",
+    "static/css/2.92c2f793.chunk.css": "/casestudy/static/css/2.92c2f793.chunk.css",
+    "static/js/2.191967ae.chunk.js": "/casestudy/static/js/2.191967ae.chunk.js",
+    "static/js/2.191967ae.chunk.js.map": "/casestudy/static/js/2.191967ae.chunk.js.map",
+    "static/js/3.2985a3c9.chunk.js": "/casestudy/static/js/3.2985a3c9.chunk.js",
+    "static/js/3.2985a3c9.chunk.js.map": "/casestudy/static/js/3.2985a3c9.chunk.js.map",
     "index.html": "/casestudy/index.html",
-    "static/css/2.54787924.chunk.css.map": "/casestudy/static/css/2.54787924.chunk.css.map",
-    "static/css/main.2688153d.chunk.css.map": "/casestudy/static/css/main.2688153d.chunk.css.map",
-    "static/js/2.b30a4ee4.chunk.js.LICENSE.txt": "/casestudy/static/js/2.b30a4ee4.chunk.js.LICENSE.txt",
+    "static/css/2.92c2f793.chunk.css.map": "/casestudy/static/css/2.92c2f793.chunk.css.map",
+    "static/css/main.011bb810.chunk.css.map": "/casestudy/static/css/main.011bb810.chunk.css.map",
+    "static/js/2.191967ae.chunk.js.LICENSE.txt": "/casestudy/static/js/2.191967ae.chunk.js.LICENSE.txt",
     "static/media/emailIcon.03432b94.png": "/casestudy/static/media/emailIcon.03432b94.png",
     "static/media/nameIcon.9612e8a2.png": "/casestudy/static/media/nameIcon.9612e8a2.png",
     "static/media/positionIcon.058545e6.png": "/casestudy/static/media/positionIcon.058545e6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.735a14e0.js",
-    "static/css/2.54787924.chunk.css",
-    "static/js/2.b30a4ee4.chunk.js",
-    "static/css/main.2688153d.chunk.css",
-    "static/js/main.25ce5c17.chunk.js"
+    "static/js/runtime-main.23f7b62a.js",
+    "static/css/2.92c2f793.chunk.css",
+    "static/js/2.191967ae.chunk.js",
+    "static/css/main.011bb810.chunk.css",
+    "static/js/main.623a2e7c.chunk.js"
   ]
 }
